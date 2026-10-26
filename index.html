@@ -609,4 +609,10 @@ section:nth-of-type(even) .step{background:#fff}
  document.getElementById('openAnswers')?.addEventListener('click',()=>details.forEach(d=>d.open=true));
  document.getElementById('closeAnswers')?.addEventListener('click',()=>details.forEach(d=>d.open=false));
 })();
+  if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js')
+      .catch(console.error);
+  });
+}
 </script></body></html>
