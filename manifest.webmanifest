@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "アメリカボウル対策問題集",
+  "short_name": "アメリカボウル",
+  "lang": "ja",
+  "description": "肖像画・歴史・憲法・判例・模擬問題をオフラインでも学習するサイト。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9e7e1",
+  "theme_color": "#131f2e",
+  "icons": [
+    {
+      "src": "./icons/app.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/app-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/app-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
