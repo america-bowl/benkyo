@@ -1,0 +1,717 @@
+{
+  "version": 4,
+  "count": 71,
+  "description": "肖像画像。sourcePage で作者・ライセンスを確認できます。",
+  "portraits": [
+    {
+      "slug": "ajohnson",
+      "nameJa": "アンドリュー・ジョンソン",
+      "nameEn": "Andrew Johnson",
+      "local": "./images/ajohnson.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/400px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Andrew_Johnson_photo_portrait_head_and_shoulders,_c1870-1880-Edit1.jpg",
+      "file": "Andrew_Johnson_photo_portrait_head_and_shoulders,_c1870-1880-Edit1.jpg",
+      "initials": "AJ"
+    },
+    {
+      "slug": "ali",
+      "nameJa": "モハメド・アリ",
+      "nameEn": "Muhammad Ali",
+      "local": "./images/ali.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/400px-Muhammad_Ali_NYWTS.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_NYWTS.jpg",
+      "file": "Muhammad_Ali_NYWTS.jpg",
+      "initials": "MA"
+    },
+    {
+      "slug": "angelou",
+      "nameJa": "マヤ・アンジェロウ",
+      "nameEn": "Maya Angelou",
+      "local": "./images/angelou.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg/400px-Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Angelou_at_Clinton_inauguration_(cropped_2).jpg",
+      "file": "Angelou_at_Clinton_inauguration_(cropped_2).jpg",
+      "initials": "MA"
+    },
+    {
+      "slug": "anthony",
+      "nameJa": "スーザン・B・アンソニー",
+      "nameEn": "Susan B. Anthony",
+      "local": "./images/anthony.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/SB_Anthony_from_RoRaWW.jpg/400px-SB_Anthony_from_RoRaWW.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:SB_Anthony_from_RoRaWW.jpg",
+      "file": "SB_Anthony_from_RoRaWW.jpg",
+      "initials": "SA"
+    },
+    {
+      "slug": "armstrong",
+      "nameJa": "ニール・アームストロング",
+      "nameEn": "Neil Armstrong",
+      "local": "./images/armstrong.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/400px-Neil_Armstrong_pose.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Neil_Armstrong_pose.jpg",
+      "file": "Neil_Armstrong_pose.jpg",
+      "initials": "NA"
+    },
+    {
+      "slug": "arthur",
+      "nameJa": "チェスター・A・アーサー",
+      "nameEn": "Chester A. Arthur",
+      "local": "./images/arthur.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg/400px-Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chester_A._Arthur_by_Abraham_Bogardus_(cropped)_(2).jpg",
+      "file": "Chester_A._Arthur_by_Abraham_Bogardus_(cropped)_(2).jpg",
+      "initials": "CA"
+    },
+    {
+      "slug": "bharrison",
+      "nameJa": "ベンジャミン・ハリソン",
+      "nameEn": "Benjamin Harrison",
+      "local": "./images/bharrison.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pach_Brothers_-_Benjamin_Harrison_%28cropped%29_%28cropped%29.jpg/400px-Pach_Brothers_-_Benjamin_Harrison_%28cropped%29_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pach_Brothers_-_Benjamin_Harrison_(cropped)_(cropped).jpg",
+      "file": "Pach_Brothers_-_Benjamin_Harrison_(cropped)_(cropped).jpg",
+      "initials": "BH"
+    },
+    {
+      "slug": "biden",
+      "nameJa": "ジョー・バイデン",
+      "nameEn": "Joe Biden",
+      "local": "./images/biden.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/400px-Joe_Biden_presidential_portrait.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
+      "file": "Joe_Biden_presidential_portrait.jpg",
+      "initials": "JB"
+    },
+    {
+      "slug": "bookert",
+      "nameJa": "ブッカー・T・ワシントン",
+      "nameEn": "Booker T. Washington",
+      "local": "./images/bookert.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Booker_T_Washington_retouched_flattened-crop.jpg/400px-Booker_T_Washington_retouched_flattened-crop.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Booker_T_Washington_retouched_flattened-crop.jpg",
+      "file": "Booker_T_Washington_retouched_flattened-crop.jpg",
+      "initials": "BW"
+    },
+    {
+      "slug": "buchanan",
+      "nameJa": "ジェームズ・ブキャナン",
+      "nameEn": "James Buchanan",
+      "local": "./images/buchanan.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/James_Buchanan_%28cropped%29.jpg/400px-James_Buchanan_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:James_Buchanan_(cropped).jpg",
+      "file": "James_Buchanan_(cropped).jpg",
+      "initials": "JB"
+    },
+    {
+      "slug": "carter",
+      "nameJa": "ジミー・カーター",
+      "nameEn": "Jimmy Carter",
+      "local": "./images/carter.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/400px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jimmy_Carter_Official_Portrait2_(3x4_cropped).jpg",
+      "file": "Jimmy_Carter_Official_Portrait2_(3x4_cropped).jpg",
+      "initials": "JC"
+    },
+    {
+      "slug": "cleveland",
+      "nameJa": "グロバー・クリーブランド",
+      "nameEn": "Grover Cleveland",
+      "local": "./images/cleveland.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/StephenGroverCleveland.jpg/400px-StephenGroverCleveland.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:StephenGroverCleveland.jpg",
+      "file": "StephenGroverCleveland.jpg",
+      "initials": "GC"
+    },
+    {
+      "slug": "clinton",
+      "nameJa": "ビル・クリントン",
+      "nameEn": "Bill Clinton",
+      "local": "./images/clinton.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/400px-Bill_Clinton.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bill_Clinton.jpg",
+      "file": "Bill_Clinton.jpg",
+      "initials": "BC"
+    },
+    {
+      "slug": "coolidge",
+      "nameJa": "カルビン・クーリッジ",
+      "nameEn": "Calvin Coolidge",
+      "local": "./images/coolidge.jpeg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/President_Calvin_Coolidge%2C_1924_portrait_photograph_%283x4_cropped_2%29.jpeg/400px-President_Calvin_Coolidge%2C_1924_portrait_photograph_%283x4_cropped_2%29.jpeg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:President_Calvin_Coolidge,_1924_portrait_photograph_(3x4_cropped_2).jpeg",
+      "file": "President_Calvin_Coolidge,_1924_portrait_photograph_(3x4_cropped_2).jpeg",
+      "initials": "CC"
+    },
+    {
+      "slug": "douglass",
+      "nameJa": "フレデリック・ダグラス",
+      "nameEn": "Frederick Douglass",
+      "local": "./images/douglass.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg/400px-Frederick_Douglass_%28circa_1879%29_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Frederick_Douglass_(circa_1879)_(cropped).jpg",
+      "file": "Frederick_Douglass_(circa_1879)_(cropped).jpg",
+      "initials": "FD"
+    },
+    {
+      "slug": "dubois",
+      "nameJa": "W・E・B・デュボワ",
+      "nameEn": "W. E. B. Du Bois",
+      "local": "./images/dubois.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%283x4%29.jpg/400px-W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%283x4%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:W.E.B._Du_Bois_by_James_E._Purdy,_1907_(3x4).jpg",
+      "file": "W.E.B._Du_Bois_by_James_E._Purdy,_1907_(3x4).jpg",
+      "initials": "WB"
+    },
+    {
+      "slug": "earhart",
+      "nameJa": "アメリア・イアハート",
+      "nameEn": "Amelia Earhart",
+      "local": "./images/earhart.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small_%28cropped%29.jpg/400px-Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small_(cropped).jpg",
+      "file": "Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small_(cropped).jpg",
+      "initials": "AE"
+    },
+    {
+      "slug": "edison",
+      "nameJa": "トマス・エジソン",
+      "nameEn": "Thomas Edison",
+      "local": "./images/edison.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/400px-Thomas_Edison2.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg",
+      "file": "Thomas_Edison2.jpg",
+      "initials": "TE"
+    },
+    {
+      "slug": "eisenhower",
+      "nameJa": "ドワイト・D・アイゼンハワー",
+      "nameEn": "Dwight D. Eisenhower",
+      "local": "./images/eisenhower.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/400px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959_(cropped)(3).jpg",
+      "file": "Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959_(cropped)(3).jpg",
+      "initials": "DE"
+    },
+    {
+      "slug": "eleanor",
+      "nameJa": "エレノア・ルーズベルト",
+      "nameEn": "Eleanor Roosevelt",
+      "local": "./images/eleanor.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg/400px-Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_at_the_United_Nations,_circa_1946-1947_(3x4_cropped).jpg",
+      "file": "Eleanor_Roosevelt_at_the_United_Nations,_circa_1946-1947_(3x4_cropped).jpg",
+      "initials": "ER"
+    },
+    {
+      "slug": "fdr",
+      "nameJa": "フランクリン・D・ルーズベルト",
+      "nameEn": "Franklin D. Roosevelt",
+      "local": "./images/fdr.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/400px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:FDR-1944-Campaign-Portrait_(3x4_retouched,_cropped).jpg",
+      "file": "FDR-1944-Campaign-Portrait_(3x4_retouched,_cropped).jpg",
+      "initials": "FR"
+    },
+    {
+      "slug": "fillmore",
+      "nameJa": "ミラード・フィルモア",
+      "nameEn": "Millard Fillmore",
+      "local": "./images/fillmore.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Millard_Fillmore_Better_Crop_%28cropped%29.jpg/400px-Millard_Fillmore_Better_Crop_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Millard_Fillmore_Better_Crop_(cropped).jpg",
+      "file": "Millard_Fillmore_Better_Crop_(cropped).jpg",
+      "initials": "MF"
+    },
+    {
+      "slug": "ford",
+      "nameJa": "ジェラルド・フォード",
+      "nameEn": "Gerald Ford",
+      "local": "./images/ford.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg/400px-Gerald_Ford_presidential_portrait_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gerald_Ford_presidential_portrait_(cropped).jpg",
+      "file": "Gerald_Ford_presidential_portrait_(cropped).jpg",
+      "initials": "GF"
+    },
+    {
+      "slug": "franklin",
+      "nameJa": "ベンジャミン・フランクリン",
+      "nameEn": "Benjamin Franklin",
+      "local": "./images/franklin.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/400px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+      "file": "Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+      "initials": "BF"
+    },
+    {
+      "slug": "garfield",
+      "nameJa": "ジェームズ・A・ガーフィールド",
+      "nameEn": "James A. Garfield",
+      "local": "./images/garfield.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/400px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:James_Abram_Garfield,_photo_portrait_seated.jpg",
+      "file": "James_Abram_Garfield,_photo_portrait_seated.jpg",
+      "initials": "JG"
+    },
+    {
+      "slug": "ghwbush",
+      "nameJa": "ジョージ・H・W・ブッシュ",
+      "nameEn": "George H. W. Bush",
+      "local": "./images/ghwbush.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg/400px-George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:George_H._W._Bush_presidential_portrait_(cropped)_(2).jpg",
+      "file": "George_H._W._Bush_presidential_portrait_(cropped)_(2).jpg",
+      "initials": "GB"
+    },
+    {
+      "slug": "grant",
+      "nameJa": "ユリシーズ・S・グラント",
+      "nameEn": "Ulysses S. Grant",
+      "local": "./images/grant.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/400px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ulysses_S._Grant_1870-1880_(cropped).jpg",
+      "file": "Ulysses_S._Grant_1870-1880_(cropped).jpg",
+      "initials": "UG"
+    },
+    {
+      "slug": "gwbush",
+      "nameJa": "ジョージ・W・ブッシュ",
+      "nameEn": "George W. Bush",
+      "local": "./images/gwbush.jpeg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/400px-George-W-Bush.jpeg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:George-W-Bush.jpeg",
+      "file": "George-W-Bush.jpeg",
+      "initials": "GB"
+    },
+    {
+      "slug": "hamilton",
+      "nameJa": "アレクサンダー・ハミルトン",
+      "nameEn": "Alexander Hamilton",
+      "local": "./images/hamilton.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/400px-Alexander_Hamilton_%28NPG%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alexander_Hamilton_(NPG).jpg",
+      "file": "Alexander_Hamilton_(NPG).jpg",
+      "initials": "AH"
+    },
+    {
+      "slug": "harding",
+      "nameJa": "ウォレン・G・ハーディング",
+      "nameEn": "Warren G. Harding",
+      "local": "./images/harding.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warren_G._Harding_1920s_portrait_%283x4_cropped%29.jpg/400px-Warren_G._Harding_1920s_portrait_%283x4_cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Warren_G._Harding_1920s_portrait_(3x4_cropped).jpg",
+      "file": "Warren_G._Harding_1920s_portrait_(3x4_cropped).jpg",
+      "initials": "WH"
+    },
+    {
+      "slug": "hayes",
+      "nameJa": "ラザフォード・B・ヘイズ",
+      "nameEn": "Rutherford B. Hayes",
+      "local": "./images/hayes.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/400px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+      "file": "President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+      "initials": "RH"
+    },
+    {
+      "slug": "hemingway",
+      "nameJa": "アーネスト・ヘミングウェイ",
+      "nameEn": "Ernest Hemingway",
+      "local": "./images/hemingway.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ErnestHemingway.jpg/400px-ErnestHemingway.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ErnestHemingway.jpg",
+      "file": "ErnestHemingway.jpg",
+      "initials": "EH"
+    },
+    {
+      "slug": "henryford",
+      "nameJa": "ヘンリー・フォード",
+      "nameEn": "Henry Ford",
+      "local": "./images/henryford.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henry_Ford_portrait_1915_original_%283x4_cropped%29.png/400px-Henry_Ford_portrait_1915_original_%283x4_cropped%29.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Henry_Ford_portrait_1915_original_(3x4_cropped).png",
+      "file": "Henry_Ford_portrait_1915_original_(3x4_cropped).png",
+      "initials": "HF"
+    },
+    {
+      "slug": "hoover",
+      "nameJa": "ハーバート・フーヴァー",
+      "nameEn": "Herbert Hoover",
+      "local": "./images/hoover.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/400px-President_Hoover_portrait.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:President_Hoover_portrait.jpg",
+      "file": "President_Hoover_portrait.jpg",
+      "initials": "HH"
+    },
+    {
+      "slug": "jackson",
+      "nameJa": "アンドリュー・ジャクソン",
+      "nameEn": "Andrew Jackson",
+      "local": "./images/jackson.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Andrew_jackson_head_%28cropped%29.jpg/400px-Andrew_jackson_head_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Andrew_jackson_head_(cropped).jpg",
+      "file": "Andrew_jackson_head_(cropped).jpg",
+      "initials": "AJ"
+    },
+    {
+      "slug": "jadams",
+      "nameJa": "ジョン・アダムズ",
+      "nameEn": "John Adams",
+      "local": "./images/jadams.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg/400px-Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart,_John_Adams,_c._1800-1815,_NGA_42933.jpg",
+      "file": "Gilbert_Stuart,_John_Adams,_c._1800-1815,_NGA_42933.jpg",
+      "initials": "JA"
+    },
+    {
+      "slug": "jefferson",
+      "nameJa": "トマス・ジェファーソン",
+      "nameEn": "Thomas Jefferson",
+      "local": "./images/jefferson.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/400px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg",
+      "file": "Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg",
+      "initials": "TJ"
+    },
+    {
+      "slug": "johnmarshall",
+      "nameJa": "ジョン・マーシャル",
+      "nameEn": "John Marshall",
+      "local": "./images/johnmarshall.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/John_Marshall_by_Henry_Inman%2C_1832.jpg/400px-John_Marshall_by_Henry_Inman%2C_1832.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:John_Marshall_by_Henry_Inman,_1832.jpg",
+      "file": "John_Marshall_by_Henry_Inman,_1832.jpg",
+      "initials": "JM"
+    },
+    {
+      "slug": "jqa",
+      "nameJa": "ジョン・クインシー・アダムズ",
+      "nameEn": "John Quincy Adams",
+      "local": "./images/jqa.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/JQA_Photo_Crop_%28cropped%29.jpg/400px-JQA_Photo_Crop_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:JQA_Photo_Crop_(cropped).jpg",
+      "file": "JQA_Photo_Crop_(cropped).jpg",
+      "initials": "JA"
+    },
+    {
+      "slug": "kennedy",
+      "nameJa": "ジョン・F・ケネディ",
+      "nameEn": "John F. Kennedy",
+      "local": "./images/kennedy.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/400px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
+      "file": "John_F._Kennedy,_White_House_color_photo_portrait.jpg",
+      "initials": "JK"
+    },
+    {
+      "slug": "lbjohnson",
+      "nameJa": "リンドン・B・ジョンソン",
+      "nameEn": "Lyndon B. Johnson",
+      "local": "./images/lbjohnson.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg/400px-Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lyndon_B._Johnson,_photo_portrait,_color_(3x4_cropped)(2).jpg",
+      "file": "Lyndon_B._Johnson,_photo_portrait,_color_(3x4_cropped)(2).jpg",
+      "initials": "LJ"
+    },
+    {
+      "slug": "lincoln",
+      "nameJa": "エイブラハム・リンカーン",
+      "nameEn": "Abraham Lincoln",
+      "local": "./images/lincoln.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/400px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+      "file": "Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+      "initials": "AL"
+    },
+    {
+      "slug": "madison",
+      "nameJa": "ジェームズ・マディソン",
+      "nameEn": "James Madison",
+      "local": "./images/madison.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/400px-James_Madison.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:James_Madison.jpg",
+      "file": "James_Madison.jpg",
+      "initials": "JM"
+    },
+    {
+      "slug": "malcolmx",
+      "nameJa": "マルコムX",
+      "nameEn": "Malcolm X",
+      "local": "./images/malcolmx.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg/400px-Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Malcolm_X_1964_press_photo_(cropped)_(lighting_diff).jpg",
+      "file": "Malcolm_X_1964_press_photo_(cropped)_(lighting_diff).jpg",
+      "initials": "MX"
+    },
+    {
+      "slug": "mccarthy",
+      "nameJa": "ジョセフ・マッカーシー",
+      "nameEn": "Joseph McCarthy",
+      "local": "./images/mccarthy.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Joseph_McCarthy_adjusted.jpg/400px-Joseph_McCarthy_adjusted.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Joseph_McCarthy_adjusted.jpg",
+      "file": "Joseph_McCarthy_adjusted.jpg",
+      "initials": "JM"
+    },
+    {
+      "slug": "mckinley",
+      "nameJa": "ウィリアム・マッキンリー",
+      "nameEn": "William McKinley",
+      "local": "./images/mckinley.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/McKinley_%28cropped%29.jpg/400px-McKinley_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:McKinley_(cropped).jpg",
+      "file": "McKinley_(cropped).jpg",
+      "initials": "WM"
+    },
+    {
+      "slug": "mlk",
+      "nameJa": "マーティン・ルーサー・キング・ジュニア",
+      "nameEn": "Martin Luther King, Jr.",
+      "local": "./images/mlk.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Martin_Luther_King%2C_Jr._and_Lyndon_Johnson_%28cropped%29.jpg/400px-Martin_Luther_King%2C_Jr._and_Lyndon_Johnson_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King,_Jr._and_Lyndon_Johnson_(cropped).jpg",
+      "file": "Martin_Luther_King,_Jr._and_Lyndon_Johnson_(cropped).jpg",
+      "initials": "MK"
+    },
+    {
+      "slug": "monroe",
+      "nameJa": "ジェームズ・モンロー",
+      "nameEn": "James Monroe",
+      "local": "./images/monroe.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg/400px-James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:James_Monroe_White_House_portrait_1819_(cropped)(2).jpg",
+      "file": "James_Monroe_White_House_portrait_1819_(cropped)(2).jpg",
+      "initials": "JM"
+    },
+    {
+      "slug": "nixon",
+      "nameJa": "リチャード・ニクソン",
+      "nameEn": "Richard Nixon",
+      "local": "./images/nixon.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/400px-Richard_Nixon_presidential_portrait_%282%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Richard_Nixon_presidential_portrait_(2).jpg",
+      "file": "Richard_Nixon_presidential_portrait_(2).jpg",
+      "initials": "RN"
+    },
+    {
+      "slug": "obama",
+      "nameJa": "バラク・オバマ",
+      "nameEn": "Barack Obama",
+      "local": "./images/obama.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/400px-President_Barack_Obama.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg",
+      "file": "President_Barack_Obama.jpg",
+      "initials": "BO"
+    },
+    {
+      "slug": "oconnor",
+      "nameJa": "サンドラ・デイ・オコナー",
+      "nameEn": "Sandra Day O'Connor",
+      "local": "./images/oconnor.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sandra_Day_O%27Connor.jpg/400px-Sandra_Day_O%27Connor.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sandra_Day_O'Connor.jpg",
+      "file": "Sandra_Day_O'Connor.jpg",
+      "initials": "SC"
+    },
+    {
+      "slug": "pierce",
+      "nameJa": "フランクリン・ピアース",
+      "nameEn": "Franklin Pierce",
+      "local": "./images/pierce.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%282%29.jpg/400px-Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%282%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_(cropped)(2).jpg",
+      "file": "Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_(cropped)(2).jpg",
+      "initials": "FP"
+    },
+    {
+      "slug": "polk",
+      "nameJa": "ジェームズ・K・ポーク",
+      "nameEn": "James K. Polk",
+      "local": "./images/polk.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/James_K._Polk_restored_%283x4_cropped%29.jpg/400px-James_K._Polk_restored_%283x4_cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:James_K._Polk_restored_(3x4_cropped).jpg",
+      "file": "James_K._Polk_restored_(3x4_cropped).jpg",
+      "initials": "JP"
+    },
+    {
+      "slug": "rbg",
+      "nameJa": "ルース・ベイダー・ギンズバーグ",
+      "nameEn": "Ruth Bader Ginsburg",
+      "local": "./images/rbg.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg/400px-Ruth_Bader_Ginsburg_2016_portrait.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ruth_Bader_Ginsburg_2016_portrait.jpg",
+      "file": "Ruth_Bader_Ginsburg_2016_portrait.jpg",
+      "initials": "RG"
+    },
+    {
+      "slug": "reagan",
+      "nameJa": "ロナルド・レーガン",
+      "nameEn": "Ronald Reagan",
+      "local": "./images/reagan.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/400px-Official_Portrait_of_President_Reagan_1981.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_Portrait_of_President_Reagan_1981.jpg",
+      "file": "Official_Portrait_of_President_Reagan_1981.jpg",
+      "initials": "RR"
+    },
+    {
+      "slug": "robinson",
+      "nameJa": "ジャッキー・ロビンソン",
+      "nameEn": "Jackie Robinson",
+      "local": "./images/robinson.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jackie_Robinson%2C_NPG_97_135.jpg/400px-Jackie_Robinson%2C_NPG_97_135.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jackie_Robinson,_NPG_97_135.jpg",
+      "file": "Jackie_Robinson,_NPG_97_135.jpg",
+      "initials": "JR"
+    },
+    {
+      "slug": "rosaparks",
+      "nameJa": "ローザ・パークス",
+      "nameEn": "Rosa Parks",
+      "local": "./images/rosaparks.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rosa_Parks%2C_November_1956_%28cropped%29.jpg/400px-Rosa_Parks%2C_November_1956_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rosa_Parks,_November_1956_(cropped).jpg",
+      "file": "Rosa_Parks,_November_1956_(cropped).jpg",
+      "initials": "RP"
+    },
+    {
+      "slug": "salk",
+      "nameJa": "ジョナス・ソーク",
+      "nameEn": "Jonas Salk",
+      "local": "./images/salk.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jonas_Salk_candid.jpg/400px-Jonas_Salk_candid.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jonas_Salk_candid.jpg",
+      "file": "Jonas_Salk_candid.jpg",
+      "initials": "JS"
+    },
+    {
+      "slug": "taft",
+      "nameJa": "ウィリアム・ハワード・タフト",
+      "nameEn": "William Howard Taft",
+      "local": "./images/taft.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29_%28cropped%29.jpg/400px-William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:William_Howard_Taft_by_Pach_Brothers_(3x4_ropped)_(cropped).jpg",
+      "file": "William_Howard_Taft_by_Pach_Brothers_(3x4_ropped)_(cropped).jpg",
+      "initials": "WT"
+    },
+    {
+      "slug": "taylor",
+      "nameJa": "ザカリー・テイラー",
+      "nameEn": "Zachary Taylor",
+      "local": "./images/taylor.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zachary_Taylor_restored_and_cropped_%283.5x4.5_cropped%29_%282%29.jpg/400px-Zachary_Taylor_restored_and_cropped_%283.5x4.5_cropped%29_%282%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Zachary_Taylor_restored_and_cropped_(3.5x4.5_cropped)_(2).jpg",
+      "file": "Zachary_Taylor_restored_and_cropped_(3.5x4.5_cropped)_(2).jpg",
+      "initials": "ZT"
+    },
+    {
+      "slug": "thurgood",
+      "nameJa": "サーグッド・マーシャル",
+      "nameEn": "Thurgood Marshall",
+      "local": "./images/thurgood.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Thurgood-marshall-2.jpg/400px-Thurgood-marshall-2.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Thurgood-marshall-2.jpg",
+      "file": "Thurgood-marshall-2.jpg",
+      "initials": "TM"
+    },
+    {
+      "slug": "troosevelt",
+      "nameJa": "セオドア・ルーズベルト",
+      "nameEn": "Theodore Roosevelt",
+      "local": "./images/troosevelt.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/400px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped)_(3).jpg",
+      "file": "Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped)_(3).jpg",
+      "initials": "TR"
+    },
+    {
+      "slug": "truman",
+      "nameJa": "ハリー・S・トルーマン",
+      "nameEn": "Harry S. Truman",
+      "local": "./images/truman.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/400px-TRUMAN_58-766-06_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:TRUMAN_58-766-06_(cropped).jpg",
+      "file": "TRUMAN_58-766-06_(cropped).jpg",
+      "initials": "HT"
+    },
+    {
+      "slug": "trump",
+      "nameJa": "ドナルド・トランプ",
+      "nameEn": "Donald Trump",
+      "local": "./images/trump.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/400px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "file": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+      "initials": "DT"
+    },
+    {
+      "slug": "tubman",
+      "nameJa": "ハリエット・タブマン",
+      "nameEn": "Harriet Tubman",
+      "local": "./images/tubman.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg/400px-Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Carte-de-visite_portrait_of_Harriet_Tubman_(cropped).jpg",
+      "file": "Carte-de-visite_portrait_of_Harriet_Tubman_(cropped).jpg",
+      "initials": "HT"
+    },
+    {
+      "slug": "twain",
+      "nameJa": "マーク・トウェイン",
+      "nameEn": "Mark Twain",
+      "local": "./images/twain.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg/400px-Mark_Twain_by_AF_Bradley_%28cropped_2%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mark_Twain_by_AF_Bradley_(cropped_2).jpg",
+      "file": "Mark_Twain_by_AF_Bradley_(cropped_2).jpg",
+      "initials": "MT"
+    },
+    {
+      "slug": "tyler",
+      "nameJa": "ジョン・タイラー",
+      "nameEn": "John Tyler",
+      "local": "./images/tyler.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tyler%2C_John%2C_by_Healy_%281842%2C_NPG_2019_13%29_%28cropped%29.jpg/400px-Tyler%2C_John%2C_by_Healy_%281842%2C_NPG_2019_13%29_%28cropped%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tyler,_John,_by_Healy_(1842,_NPG_2019_13)_(cropped).jpg",
+      "file": "Tyler,_John,_by_Healy_(1842,_NPG_2019_13)_(cropped).jpg",
+      "initials": "JT"
+    },
+    {
+      "slug": "vanburen",
+      "nameJa": "マーティン・ヴァン・ビューレン",
+      "nameEn": "Martin Van Buren",
+      "local": "./images/vanburen.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Martin_Van_Buren_by_Mathew_Brady_c1855-58-%284%29.jpg/400px-Martin_Van_Buren_by_Mathew_Brady_c1855-58-%284%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Martin_Van_Buren_by_Mathew_Brady_c1855-58-(4).jpg",
+      "file": "Martin_Van_Buren_by_Mathew_Brady_c1855-58-(4).jpg",
+      "initials": "MB"
+    },
+    {
+      "slug": "washington",
+      "nameJa": "ジョージ・ワシントン",
+      "nameEn": "George Washington",
+      "local": "./images/washington.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/400px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "file": "Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "initials": "GW"
+    },
+    {
+      "slug": "whharrison",
+      "nameJa": "ウィリアム・ヘンリー・ハリソン",
+      "nameEn": "William Henry Harrison",
+      "local": "./images/whharrison.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/William_Henry_Harrison_crop.jpg/400px-William_Henry_Harrison_crop.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:William_Henry_Harrison_crop.jpg",
+      "file": "William_Henry_Harrison_crop.jpg",
+      "initials": "WH"
+    },
+    {
+      "slug": "wilson",
+      "nameJa": "ウッドロウ・ウィルソン",
+      "nameEn": "Woodrow Wilson",
+      "local": "./images/wilson.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/400px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:President_Woodrow_Wilson_Harris_%26_Ewing_(3x4_cropped_b).jpg",
+      "file": "President_Woodrow_Wilson_Harris_&_Ewing_(3x4_cropped_b).jpg",
+      "initials": "WW"
+    }
+  ]
+}
